@@ -1,0 +1,21 @@
+
+#eventstable td
+{
+    text-align : right;
+}
+
+#eventstable td:nth-child(1), #eventstable td:nth-child(5)
+{
+    text-align : left;
+}
+
+#eventstable td:nth-child(2)
+{
+    text-align : center;
+}
+
+#eventstable td.description
+{
+    text-align : center;
+/*     color : firebrick; */
+}

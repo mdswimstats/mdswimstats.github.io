@@ -1,0 +1,10 @@
+
+#swimmerstable td:nth-child(1)
+{
+    text-align : left;
+}
+
+#swimmerstable td:nth-child(3)
+{
+    text-align : right;
+}

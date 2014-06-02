@@ -1,0 +1,5 @@
+
+table#meetstable td:nth-child(1)
+{
+    text-align : left;
+}

@@ -1,0 +1,11 @@
+
+div#content ul
+{
+    list-style-type: none;
+}
+
+div#content td
+{
+    text-align : left;
+    vertical-align : top;
+}

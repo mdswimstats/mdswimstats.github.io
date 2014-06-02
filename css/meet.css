@@ -1,0 +1,22 @@
+
+table#teamstable td
+{
+    text-align : right;
+}
+
+table#teamstable td:nth-child(1), table#teamstable td:nth-child(4)
+{
+    text-align : left;
+}
+
+rect
+{
+    fill : firebrick;
+/*     fill : forestgreen; */
+/*     fill : steelblue; */
+}
+
+table#eventstable td
+{
+    text-align : left;
+}
